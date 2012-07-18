@@ -700,8 +700,6 @@ int main()
 	if (res != 0) {
 		printf("%s failed\n", tv->t);
 		return res;
-	} else {
-		puts("nice");
 	}
 
 /*
